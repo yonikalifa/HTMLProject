@@ -1,0 +1,47 @@
+
+.icon-java {
+	width: 48px;
+	height: 55px;
+}
+
+.icon-html {
+	width: 48px;
+	height: 55px;
+}
+
+.icon-css {
+	width: 48px;
+	height: 55px;
+}
+
+.icon-selenium {
+	width: 48px;
+	height: 55px;
+}
+
+.icon-office{
+	width: 200px;
+	
+}
+
+.icon-sql{
+	width: 48px;
+	height: 55px;
+}
+	
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  display: block;
+  margin-left: left-side;
+  margin-right: left-side;
+  width: 90%;
+}
+
+.justify{
+	text-align: justify;
+}
+
+
+
